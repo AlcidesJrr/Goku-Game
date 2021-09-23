@@ -16,7 +16,7 @@ body {
 #container {
     width: 100vw;
     height: 100vh;
-    background: url('./main/img/gokufundo.jpg');
+    background: url('./img/gokufundo.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -31,7 +31,7 @@ h1 {
 
 header {
     margin: 0;
-    background: url('./main/img/cp2.png');
+    background: url('./img/cp2.png');
     opacity: 0.8;
     padding: 0.8%;
     background-repeat: no-repeat;
